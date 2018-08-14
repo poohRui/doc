@@ -171,4 +171,4 @@ int KMP(string S,string P){
     }
 }
 ```
-[完整代码]()
+[完整代码](https://github.com/poohRui/doc/blob/master/kmp.cpp)
