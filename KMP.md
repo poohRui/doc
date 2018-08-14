@@ -44,8 +44,8 @@ next -1 0 0 0 1 2 0
 
 ```c++
 S： a b c a x a b c a b x
-P： a b c a b x        // P中第五位出现误匹配，保持S下标为4不变，
-          a b c a b x  // 将P的下标变为1，比较S的第五位和P的第二位
+P： a b c a b x        // P中第五位出现误匹配，保持S下标为4不变，将P的下标变为1，比较S的第五位和P的第二位
+          a b c a b x  
             a b c a b x
               a b c a b x
 ```
